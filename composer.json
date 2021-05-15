@@ -19,16 +19,15 @@
     "rss": "https://craftcms.com/changelog.rss"
   },
   "require": {
-    "craftcms/cms": "^3.3.3",
-    "vlucas/phpdotenv": "^2.4.0",
+    "craftcms/cms": "3.6.12",
     "markhuot/craftql": "^1.3",
     "putyourlightson/craft-blitz": "^1.4",
     "nystudio107/craft-twigprofiler": "^1.0",
     "ext-mbstring": "*",
     "ext-imagick": "*",
-    "craftcms/redactor": "^2.1",
     "timkelty/craft3-cloudinary": "^1.0",
-    "tomdiggle/craft-gatekeeper": "^1.0"
+    "tomdiggle/craft-gatekeeper": "^1.0",
+    "craftcms/redactor": "^2.8"
   },
   "autoload": {
     "psr-4": {
