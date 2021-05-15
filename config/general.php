@@ -14,6 +14,8 @@ return [
       // Default Week Start Day (0 = Sunday, 1 = Monday...)
       'defaultWeekStartDay' => 0,
 
+      'enableGql'=> true,
+
       // Enable CSRF Protection (recommended)
       'enableCsrfProtection' => true,
 
